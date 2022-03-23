@@ -11,4 +11,5 @@ kobukiに搭載されているセンサ一覧
 - 赤外線測距センサ
 
 ## kobukiの動かし方(キーボード操作編)<br>
-1. roslaunch 
+1. ``` roslaunch kobuki_node minimal.launch ```
+2. ``` roslaunch kobuki_keyop keyop.launch ```
