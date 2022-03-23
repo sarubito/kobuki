@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/kobuki"]
+	path = catkin_ws/src/kobuki
+	url = https://github.com/yujinrobot/kobuki.git
