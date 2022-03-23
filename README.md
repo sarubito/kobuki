@@ -1,7 +1,7 @@
 # For kobuki　sample program
 
 ## What's kobuki?
-![iOS の画像 (3)](https://user-images.githubusercontent.com/61666505/159626564-50daa836-9715-4a79-9da9-b8fd2abf255c.jpg) <br>
+![image](https://user-images.githubusercontent.com/61666505/159632989-1f8e4d19-d8c8-49c4-9b3e-2b9a8e5ba435.png)
 kobukiは研究開発用途を目的とした、オープンソースモバイルロボットです。<br>
 
 kobukiに搭載されているセンサ一覧
