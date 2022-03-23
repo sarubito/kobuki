@@ -10,6 +10,11 @@ kobukiに搭載されているセンサ一覧
 - バンパ
 - 赤外線測距センサ
 
+## 環境設定の方法(必ずやる)
+1. ```cd kobuki```
+2. ```bash catkin_build.sh```
+3. ```bash source_devel.sh```
+
 ## kobukiの動かし方(キーボード操作編)<br>
 1. ``` roslaunch kobuki_node minimal.launch ```
 2. ``` roslaunch kobuki_keyop keyop.launch ``` <br>
