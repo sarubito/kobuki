@@ -13,4 +13,4 @@ kobukiに搭載されているセンサ一覧
 ## kobukiの動かし方(キーボード操作編)<br>
 1. ``` roslaunch kobuki_node minimal.launch ```
 2. ``` roslaunch kobuki_keyop keyop.launch ``` <br>
-w, a, s, d で前、左、後、右に移動する。 <br>
+↑, ←, ↓, → で前、左、後、右に移動する。 <br>
