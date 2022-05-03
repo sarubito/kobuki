@@ -3,6 +3,7 @@
 ## What's kobuki?
 ![image](https://user-images.githubusercontent.com/61666505/159632989-1f8e4d19-d8c8-49c4-9b3e-2b9a8e5ba435.png) <br>
 kobukiは研究開発用途を目的とした、オープンソースモバイルロボットです。<br>
+LinuxやROSについての知識については、[Wiki](https://github.com/sarubito/kobuki/wiki)にまとめてあります<br>
 
 kobukiに搭載されているセンサ一覧
 - ジャイロセンサ
